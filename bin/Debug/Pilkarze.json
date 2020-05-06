@@ -1,0 +1,26 @@
+[
+  {
+    "Imie": "Arek",
+    "Nazwisko": "Milik",
+    "Wiek": 25,
+    "Waga": 80
+  },
+  {
+    "Imie": "Wojciech",
+    "Nazwisko": "Szcz\u0119sny",
+    "Wiek": 30,
+    "Waga": 85
+  },
+  {
+    "Imie": "Hector",
+    "Nazwisko": "Bellerin",
+    "Wiek": 24,
+    "Waga": 74
+  },
+  {
+    "Imie": "Nicolas",
+    "Nazwisko": "Pepe",
+    "Wiek": 23,
+    "Waga": 77
+  }
+]
